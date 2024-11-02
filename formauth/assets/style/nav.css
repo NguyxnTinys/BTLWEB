@@ -71,20 +71,20 @@
 }
 
 .navbar-mobile {
-    position: absolute; /* Đặt navbar ở vị trí tuyệt đối */
-    top: 100px; /* Cách header một khoảng bằng chiều cao của header */
+    position: fixed;
+    top: 80px;
     right: 10px; /* Đặt navbar ở góc trên bên phải */
     width: 300px;
     display: none; /* Ẩn navbar mặc định */
-    flex-direction: column; /* Đặt các link trong cột */
-    gap: 15px; /* Khoảng cách giữa các link */
+    flex-direction: column;
+    gap: 15px; 
     background-color: rgb(255, 255, 255, 0.4);
     backdrop-filter: blur(10px);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Đổ bóng cho navbar */
     border-radius: 10px;
     justify-content: center;
     align-items: center;
-    padding: 10px; /* Thêm khoảng đệm */
+    padding: 10px; 
 }
 
 .navbar-mobile.show {
