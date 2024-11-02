@@ -29,6 +29,7 @@
 
 body {
     color: var(--text-body);
+    justify-content: center;
     font-family: var(--text-body);
 }
 
