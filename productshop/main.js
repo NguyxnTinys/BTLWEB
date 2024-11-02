@@ -1,7 +1,7 @@
 const products = [
     {
         name: "2baconil TTS20 14mg Patch",
-        img: "/productshop/img/2baconil-1.jpg",
+        img: "/BTLWEB/productshop/img/2baconil-1.jpg",
         priceOld: "£60.00",
         priceCurrent: "£40.00",
         likeCount: true,
@@ -13,11 +13,11 @@ const products = [
             percent: "33%",
             label: "GIẢM"
         },
-        link: "/Detail-P/2baconil.html"
+        link: "/BTLWEB/Detail-P/2baconil.html"
     },
     {
         name: "Anovate Cream 20gm",
-        img: "/productshop/img/anovate-cream-1.jpg",
+        img: "/BTLWEB/productshop/img/anovate-cream-1.jpg",
         priceOld: "£33.00",
         priceCurrent: "£28.49",
         likeCount: false,
@@ -29,11 +29,11 @@ const products = [
             percent: "10%",
             label: "GIẢM"
         },
-        link: "/Detail-P/anovate-cream.html"
+        link: "/BTLWEB/Detail-P/anovate-cream.html"
     },
     {
         name: "HEMO FORTE Syrup 450ml",
-        img: "/productshop/img/hemo-forte-syrup-1.jpg",
+        img: "/BTLWEB/productshop/img/hemo-forte-syrup-1.jpg",
         priceOld: "£74.00",
         priceCurrent: "£67.00",
         likeCount: false,
@@ -45,11 +45,11 @@ const products = [
             percent: "10%",
             label: "GIẢM"
         },
-        link: "/Detail-P/hemo-forte-syrup.html"
+        link: "/BTLWEB/Detail-P/hemo-forte-syrup.html"
     },
     {
         name: "Kerala Ayurveda Histantin Tablet",
-        img: "/productshop/img/histanin-1.jpg",
+        img: "/BTLWEB/productshop/img/histanin-1.jpg",
         priceOld: "£74.00",
         priceCurrent: "£67.00",
         likeCount: false,
@@ -61,11 +61,11 @@ const products = [
             percent: "10%",
             label: "GIẢM"
         },
-        link: "/Detail-P/histanin.html"
+        link: "/BTLWEB/Detail-P/histanin.html"
     },
     {
         name: "I PILL TABLET",
-        img: "/productshop/img/i-pill-1.jpg",
+        img: "/BTLWEB/productshop/img/i-pill-1.jpg",
         priceOld: "£35.00",
         priceCurrent: "£25.00",
         likeCount: false,
@@ -77,11 +77,11 @@ const products = [
             percent: "30%",
             label: "GIẢM"
         },
-        link: "/Detail-P/i-pill.html"
+        link: "/BTLWEB/Detail-P/i-pill.html"
     },
     {
         name: "Kapiva Get Slim Juice 1ltr",
-        img: "/productshop/img/kapiva-1.jpg",
+        img: "/BTLWEB/productshop/img/kapiva-1.jpg",
         priceOld: "£199.99",
         priceCurrent: "£99.99",
         likeCount: false,
@@ -93,11 +93,11 @@ const products = [
             percent: "50%",
             label: "GIẢM"
         },
-        link: "/Detail-P/kapiva.html"
+        link: "/BTLWEB/Detail-P/kapiva.html"
     },
     {
         name: "NEOMOL I.V Infusion 100ml",
-        img: "/productshop/img/neomol-1.jpg",
+        img: "/BTLWEB/productshop/img/neomol-1.jpg",
         priceOld: "£13.49",
         priceCurrent: "£8.36",
         likeCount: false,
@@ -109,11 +109,11 @@ const products = [
             percent: "20%",
             label: "GIẢM"
         },
-        link: "/Detail-P/neomol-infusion.html"
+        link: "/BTLWEB/Detail-P/neomol-infusion.html"
     },
     {
         name: "Pankajakasthuri Breathe Easy 400 gm",
-        img: "/productshop/img/pankajakasthuri-1.jpg",
+        img: "/BTLWEB/productshop/img/pankajakasthuri-1.jpg",
         priceOld: "£20.00",
         priceCurrent: "£16.00",
         likeCount: false,
@@ -125,11 +125,11 @@ const products = [
             percent: "20%",
             label: "GIẢM"
         },
-        link: "/Detail-P/pankajakasthuri-breath-easy.html"
+        link: "/BTLWEB/Detail-P/pankajakasthuri-breath-easy.html"
     },
     {
         name: "Vicks Inhaler 0.5 ml",
-        img: "/productshop/img/vick-inhaler-1.jpg",
+        img: "/BTLWEB/productshop/img/vick-inhaler-1.jpg",
         priceOld: "£74.00",
         priceCurrent: "£67.00",
         likeCount: false,
@@ -141,11 +141,11 @@ const products = [
             percent: "10%",
             label: "GIẢM"
         },
-        link: "/Detail-P/vick-inhaler.html"
+        link: "/BTLWEB/Detail-P/vick-inhaler.html"
     },
     {
         name: "CeraVe Moisturizing Cream 340g",
-        img: "/productshop/img/cerave-1.jpg",
+        img: "/BTLWEB/productshop/img/cerave-1.jpg",
         priceOld: "£19.99",
         priceCurrent: "£14.99",
         likeCount: false,
@@ -157,11 +157,11 @@ const products = [
             percent: "25%",
             label: "GIẢM"
         },
-        link: "/Detail-P/cerave-moisturising-cream.html"
+        link: "/BTLWEB/Detail-P/cerave-moisturising-cream.html"
     },
     {
         name: "Set dưỡng trắng da Whoo khác",
-        img: "/productshop/img/P02021.avif",
+        img: "/BTLWEB/productshop/img/P02021.avif",
         priceOld: "1.500.000đ",
         priceCurrent: "1.200.000đ",
         likeCount: false,
@@ -176,7 +176,7 @@ const products = [
     },
     {
         name: "Set dưỡng trắng da Whoo khác",
-        img: "/productshop/img/P02021.avif",
+        img: "/BTLWEB/productshop/img/P02021.avif",
         priceOld: "1.500.000đ",
         priceCurrent: "1.200.000đ",
         likeCount: false,
@@ -191,7 +191,7 @@ const products = [
     },
     {
         name: "Set dưỡng trắng da Whoo khác",
-        img: "/productshop/img/P02021.avif",
+        img: "/BTLWEB/productshop/img/P02021.avif",
         priceOld: "1.500.000đ",
         priceCurrent: "1.200.000đ",
         likeCount: false,
@@ -206,7 +206,7 @@ const products = [
     },
     {
         name: "Set dưỡng trắng da Whoo khác",
-        img: "/productshop/img/P02021.avif",
+        img: "/BTLWEB/productshop/img/P02021.avif",
         priceOld: "1.500.000đ",
         priceCurrent: "1.200.000đ",
         likeCount: false,
@@ -221,7 +221,7 @@ const products = [
     },
     {
         name: "Set dưỡng trắng da Whoo khác",
-        img: "/productshop/img/P02021.avif",
+        img: "/BTLWEB/productshop/img/P02021.avif",
         priceOld: "1.500.000đ",
         priceCurrent: "1.200.000đ",
         likeCount: false,
